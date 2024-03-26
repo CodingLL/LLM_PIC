@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T03:04:45.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3pUJfH4rx7Op_4txLqQU" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-26T03:06:39.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BU3XWgpXmN1_WlXkWYQ9" version="24.1.0" type="github" pages="6">
   <diagram name="第 1 页" id="Zc-eI03FVCKxNuxr0bWm">
     <mxGraphModel dx="1514" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1358,12 +1358,6 @@
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-7" value="2016" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="395" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.99999999999994" y="325" as="sourcePoint" />
-            <mxPoint x="280.34" y="285" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-10" value="将幻觉前的字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="370" width="172.5" height="30" as="geometry" />
         </mxCell>
@@ -1394,12 +1388,6 @@
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-48" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;in &lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;2016&lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.99999999999994" y="250" as="sourcePoint" />
-            <mxPoint x="280.34" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-50" value="将幻觉字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285.34" y="210" width="154.66" height="30" as="geometry" />
         </mxCell>
@@ -1427,14 +1415,31 @@
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-64" value="election" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-68" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-70" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SZk5nk8jfUlJkv6EvhP8-2" target="SZk5nk8jfUlJkv6EvhP8-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.99999999999994" y="170" as="sourcePoint" />
-            <mxPoint x="280.34" y="130" as="targetPoint" />
+            <mxPoint x="-40" y="280" as="sourcePoint" />
+            <mxPoint x="10" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="310" />
+              <mxPoint x="110" y="270" />
+              <mxPoint x="120" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-68" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295.34" y="140" width="70" height="30" as="geometry" />
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="325" as="sourcePoint" />
+            <mxPoint x="280" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.30999999999995" y="175" as="sourcePoint" />
+            <mxPoint x="279.30999999999995" y="135" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
