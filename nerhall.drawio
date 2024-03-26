@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T03:03:32.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="E4fqdMMlffm1PkMAT7sV" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-26T03:04:16.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ytCL3tFxeFYirj1JwWC0" version="24.1.0" type="github" pages="6">
   <diagram name="第 1 页" id="Zc-eI03FVCKxNuxr0bWm">
     <mxGraphModel dx="1514" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1364,8 +1364,8 @@
             <mxPoint x="280.34" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-10" value="遍历到幻觉起始位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="370" width="122.5" height="30" as="geometry" />
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-10" value="将幻觉前的字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="370" width="172.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-11" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="70" height="30" as="geometry" />
@@ -1400,8 +1400,8 @@
             <mxPoint x="280.34" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SZk5nk8jfUlJkv6EvhP8-50" value="遍历幻觉标签" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285.34" y="210" width="90" height="30" as="geometry" />
+        <mxCell id="SZk5nk8jfUlJkv6EvhP8-50" value="将幻觉字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285.34" y="210" width="154.66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SZk5nk8jfUlJkv6EvhP8-51" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="40" height="20" as="geometry" />
