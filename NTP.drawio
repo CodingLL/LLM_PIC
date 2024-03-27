@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:28:02.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gQdXTqp-t9yXzx2WKMa0" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-27T07:28:38.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dOYC5qrthkrifVltBB5w" version="24.2.0" type="github" pages="2">
   <diagram name="train" id="bD0ZjHLVfbpInLHWtYOu">
-    <mxGraphModel dx="734" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="763" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,16 +13,16 @@
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-12" value="&amp;lt;bos&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="123.75" y="395" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-13" value="`w_5`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-13" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="395" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-14" value="`w_6`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-14" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="395" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-15" value="`w_7`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-15" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="395" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-17" value="`w_8`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-17" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="680" y="395" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-20" value="`p_5`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -71,46 +71,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="697.56" y="395" as="sourcePoint" />
             <mxPoint x="697.1899999999999" y="365" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-20" target="DEMM_gKEzrEi_v6ik8aX-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="375" as="sourcePoint" />
-            <mxPoint x="370" y="325" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="305" />
-              <mxPoint x="440" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="291" as="sourcePoint" />
-            <mxPoint x="560" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="542" y="305" />
-              <mxPoint x="512" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="291" as="sourcePoint" />
-            <mxPoint x="630" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="612" y="305" />
-              <mxPoint x="582" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="291" as="sourcePoint" />
-            <mxPoint x="700" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="682" y="305" />
-              <mxPoint x="652" y="445" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
