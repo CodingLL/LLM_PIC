@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:51:33.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8ip9TlZ05-EsBEbwtB0-" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:53:17.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="brjFTgSsi1MeMb1I5mPu" version="24.2.0" type="github">
   <diagram name="第 1 页" id="bD0ZjHLVfbpInLHWtYOu">
     <mxGraphModel dx="909" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-24" value="`p_8`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="265" width="35" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-25" value="标签转移1位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -237,10 +234,7 @@
           <mxGeometry x="580" y="327.5" width="20" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-72" value="真实标注：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="210" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-73" value="预测结果&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="50" y="210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-75" value="`p_1`" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="123.75" y="265" width="35" height="20" as="geometry" />
@@ -301,6 +295,9 @@
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-102" value="不计算loss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="241.25" y="155" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-103" value="预测概率：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
