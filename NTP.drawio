@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T05:37:32.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.0" etag="jPnFWEKMkkSoQX30atfY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:08:38.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZT7AhNH6pDupQnhf0wFT" version="24.2.0" type="github">
   <diagram name="第 1 页" id="bD0ZjHLVfbpInLHWtYOu">
-    <mxGraphModel>
+    <mxGraphModel dx="795" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DEMM_gKEzrEi_v6ik8aX-1" value="给定文档：xxx和LLM回答：xxx，检测LLM回答" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="270" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
