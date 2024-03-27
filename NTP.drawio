@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:15:32.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d5q3N-ZtOqP6U3w6nqTg" version="24.2.0" type="github">
-  <diagram name="第 1 页" id="bD0ZjHLVfbpInLHWtYOu">
-    <mxGraphModel dx="909" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-27T07:28:02.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gQdXTqp-t9yXzx2WKMa0" version="24.2.0" type="github" pages="2">
+  <diagram name="train" id="bD0ZjHLVfbpInLHWtYOu">
+    <mxGraphModel dx="734" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,14 @@
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-103" value="预测概率：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="260" width="80" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E2o6wTLvijZGJ7_PljzO" name="inference">
+    <mxGraphModel dx="954" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
