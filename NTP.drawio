@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:35:54.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4T5oL9jinV7Dpa-q7iP9" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-27T07:36:43.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ldarNSmJ0wBEnYVdPPix" version="24.2.0" type="github" pages="2">
   <diagram name="train" id="bD0ZjHLVfbpInLHWtYOu">
     <mxGraphModel dx="867" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -71,36 +71,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="697.56" y="395" as="sourcePoint" />
             <mxPoint x="697.1899999999999" y="365" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="291" as="sourcePoint" />
-            <mxPoint x="560" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="542" y="305" />
-              <mxPoint x="512" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="291" as="sourcePoint" />
-            <mxPoint x="630" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="612" y="305" />
-              <mxPoint x="582" y="445" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DEMM_gKEzrEi_v6ik8aX-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DEMM_gKEzrEi_v6ik8aX-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="291" as="sourcePoint" />
-            <mxPoint x="700" y="415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="682" y="305" />
-              <mxPoint x="652" y="445" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DEMM_gKEzrEi_v6ik8aX-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
