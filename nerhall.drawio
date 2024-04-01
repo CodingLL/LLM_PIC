@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T13:55:24.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="7RN7M5M9ihaLZm95NOEv" version="24.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-01T02:48:58.293Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DpfGpralYX8oAY3jYcFO" version="24.2.0" type="github" pages="8">
   <diagram name="第 1 页" id="Zc-eI03FVCKxNuxr0bWm">
-    <mxGraphModel dx="1514" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1050" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1687,119 +1687,132 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iZS7Kc_g8ouBe8Rd5611" name="str2nertag_v2">
-    <mxGraphModel dx="1514" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0CDA0jqFdski8sfK1pbv-1" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Biden won the election &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;in &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;2016&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="410" width="240" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-1" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Biden won the election &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;in &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;2016&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255); white-space-collapse: preserve; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="500" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0CDA0jqFdski8sfK1pbv-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.99999999999994" y="405" as="sourcePoint" />
-            <mxPoint x="280.34" y="365" as="targetPoint" />
+            <mxPoint x="284.99999999999994" y="495" as="sourcePoint" />
+            <mxPoint x="285.34" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-3" value="Biden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="330" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-3" value="Biden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="145" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-4" value="won" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-4" value="won" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="195" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-5" value="the" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="330" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-5" value="the" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="245" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-6" value="election" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="330" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-6" value="election" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="295" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-7" value="in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="345" y="180" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-9" value="将输入文本分词，&lt;div&gt;记录起止偏移&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="287.5" y="460" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-8" value="2016" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="395" y="180" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-10" value="遍历每个子词的偏移，&lt;div&gt;与每个幻觉偏移计算交集&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="365" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-9" value="将幻觉前的字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="370" width="172.5" height="30" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-15" value="B-H" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="350" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-10" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="70" height="30" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-16" value="I-H" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-11" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-20" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="145" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-12" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-21" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="195" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-13" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-22" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="245" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-14" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="260" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-23" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="295" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-15" value="B-H" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="345" y="110" width="40" height="20" as="geometry" />
+        <mxCell id="0CDA0jqFdski8sfK1pbv-28" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="295" y="270" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-16" value="I-H" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="395" y="110" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-17" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;in &lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;2016&lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="330" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-18" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;in &lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;2016&lt;/span&gt;&lt;span style=&quot;font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-19" value="将幻觉字符串分裂为词序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285.34" y="210" width="154.66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-20" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-21" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-22" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-23" value="O" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-24" value="Biden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-25" value="won" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-26" value="the" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-27" value="election" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-28" value="BIO标注" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="140" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0CDA0jqFdski8sfK1pbv-3" target="0CDA0jqFdski8sfK1pbv-24">
+        <mxCell id="0CDA0jqFdski8sfK1pbv-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="280" as="sourcePoint" />
-            <mxPoint x="10" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="310" />
-              <mxPoint x="110" y="270" />
-              <mxPoint x="120" y="230" />
-            </Array>
+            <mxPoint x="285" y="400" as="sourcePoint" />
+            <mxPoint x="285" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0CDA0jqFdski8sfK1pbv-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="325" as="sourcePoint" />
-            <mxPoint x="280" y="285" as="targetPoint" />
+            <mxPoint x="286.49999999999994" y="300" as="sourcePoint" />
+            <mxPoint x="286.49999999999994" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CDA0jqFdski8sfK1pbv-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.30999999999995" y="175" as="sourcePoint" />
-            <mxPoint x="279.30999999999995" y="135" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-1" value="in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-2" value="2016" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="395" y="405" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-3" value="（0，5）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="423" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-4" value="（6，9）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="423" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-5" value="（10，13）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220.34" y="423" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-6" value="（14，22）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="423" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-7" value="（23，25）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="423" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-8" value="（26，30）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="423" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-9" value="幻觉标签起止偏移：（23, 30）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="520" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-11" value="Biden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="145" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-12" value="won" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="195" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-13" value="the" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="245" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-14" value="election" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="295" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-15" value="in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-16" value="2016" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="395" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-17" value="（0，5）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="328" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-18" value="（6，9）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="328" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-19" value="（10，13）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220.34000000000003" y="328" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-20" value="（14，22）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="328" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-21" value="&lt;font color=&quot;#ff0000&quot;&gt;（23，25）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="328" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7PNNOSE8TaQm0gln1Ck-22" value="&lt;font color=&quot;#ff0000&quot;&gt;（26，30）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="328" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
