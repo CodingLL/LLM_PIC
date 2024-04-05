@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T03:43:22.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="fUIFOuEyeuIKI2sk6PTQ" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T03:46:05.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="1-2h-em1iEvXxJJRqZD_" version="24.2.1" type="github">
   <diagram name="第 1 页" id="BDdLVOU1T75o3faZQAav">
     <mxGraphModel dx="1044" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,19 +38,19 @@
           <mxGeometry x="50" y="500" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-23" value="LLM&lt;div&gt;参数固定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="625" y="545" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-25" value="[1832]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="635" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-27" value="1-shot&lt;div&gt;提示样本&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="70" height="30" as="geometry" />
+          <mxGeometry x="50" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-34" value="给定以下参考文档：&lt;span style=&quot;&quot;&gt;姚明是个篮球运动员&lt;/span&gt;&lt;div&gt;基于上述参考文档，LLM生成以下文本：&lt;span style=&quot;&quot;&gt;姚明的职业是足球&lt;/span&gt;&lt;/div&gt;&lt;div&gt;请给出LLM生成文本中的幻觉片段：[足球]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;给定以下参考文档：美国1776年建国&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;基于上述参考文档，LLM生成以下文本：美国于1832年成立&lt;/div&gt;&lt;div&gt;请给出LLM生成文本中的幻觉片段：&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="510" y="390" width="330" height="110" as="geometry" />
+          <mxGeometry x="130" y="330" width="330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-36" value="幻觉片段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="635" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,25 +58,22 @@
             <mxPoint x="290" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="41BcM6QgG3YK5gi1RrwN-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="41BcM6QgG3YK5gi1RrwN-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="480" as="sourcePoint" />
-            <mxPoint x="510" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="684.71" y="505" as="sourcePoint" />
-            <mxPoint x="684.71" y="535" as="targetPoint" />
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="290" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="41BcM6QgG3YK5gi1RrwN-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="684.71" y="605" as="sourcePoint" />
-            <mxPoint x="684.71" y="635" as="targetPoint" />
+            <mxPoint x="289.66" y="220" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41BcM6QgG3YK5gi1RrwN-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="480" as="sourcePoint" />
+            <mxPoint x="290" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
