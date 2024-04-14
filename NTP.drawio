@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T03:35:05.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="LR6iCFUYbKGYtmtyWIMl" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-14T03:35:24.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="r00cgYfp1vZSWUyummCH" version="24.2.2" type="github" pages="2">
   <diagram name="train" id="bD0ZjHLVfbpInLHWtYOu">
     <mxGraphModel dx="1514" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -431,9 +431,6 @@
         </mxCell>
         <mxCell id="xqei1Mr3ka1qnYGHtK3M-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="580" y="327.5" width="20" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="xqei1Mr3ka1qnYGHtK3M-63" value="预测概率：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
